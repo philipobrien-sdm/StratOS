@@ -1,6 +1,7 @@
 # StratOS — Adaptive Strategic Planning & Risk Engine
 
 StratOS is an intelligent strategic planning tool designed to help organizations model projects, anticipate risks, and engineer successful outcomes using the power of Generative AI. It moves beyond static spreadsheets by providing a dynamic, recalibrating model of your project's ecosystem.
+<img width="1000" height="500" alt="Screenshot 2025-12-03 204712" src="https://github.com/user-attachments/assets/a7eefe61-f2cf-4018-9529-64c6c05bcf17" />
 
 ## 🚀 Purpose
 
