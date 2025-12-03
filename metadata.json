@@ -1,0 +1,5 @@
+{
+  "name": "StratOS - Adaptive Strategic Engine",
+  "description": "A strategic planning and risk engine that uses AI to generate scenarios, recalibrate probabilities, and manage versioned project states.",
+  "requestFramePermissions": []
+}
